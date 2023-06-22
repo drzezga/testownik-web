@@ -8,6 +8,8 @@ You can download and install this app from [Releases page](https://github.com/ku
 
 ## Usage
 
+https://api.github.com/repos/TestownikiPWR/bazy/contents/
+
 ### Keyboard Support
 Testownik provided keyboard support while test is running. You can use <kbd>1</kbd> - <kbd>9</kbd> keys to select/unselect answer choices and <kbd>Space</kbd> key to accept answer.
 
